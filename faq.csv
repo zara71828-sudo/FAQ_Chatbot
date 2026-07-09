@@ -1,0 +1,95 @@
+Question,Answer
+What is your name?,I am an AI FAQ Chatbot developed using Flask and Natural Language Processing.
+Who created you?,I was developed as an AI FAQ Chatbot project using Python Flask NLTK and Scikit-learn.
+How can I reset my password?,Click on the Forgot Password option and follow the instructions.
+I forgot my password.,Click on Forgot Password and check your email for a reset link.
+Can I change my password?,Yes you can change your password from your account settings.
+How do I create an account?,Click on the Sign Up button and fill in your information.
+How do I login?,Enter your email and password on the login page.
+Why can't I login?,Please verify your email and password or reset your password.
+Can I change my email?,Yes you can update your email from Profile Settings.
+Can I change my username?,Yes username can be updated from your profile page.
+How do I delete my account?,Contact customer support to permanently delete your account.
+Where are you located?,Our office is located in Islamabad Pakistan.
+What are your office hours?,Monday to Friday from 9 AM to 6 PM.
+Are you open on weekends?,No we remain closed on weekends.
+How do I contact support?,You can email support@example.com.
+What is your support email?,Our support email is support@example.com.
+Do you provide internships?,Yes we offer internship opportunities throughout the year.
+How do I apply for an internship?,Visit our careers page and submit your application.
+Do interns receive certificates?,Yes eligible interns receive certificates after successful completion.
+How long is the internship?,The internship duration depends on the program.
+Do you provide job opportunities?,Outstanding interns may receive placement opportunities.
+Can I update my profile?,Yes you can edit your profile anytime.
+How can I upload my profile picture?,Open Profile Settings and upload your image.
+Can I change my phone number?,Yes from your account settings.
+What payment methods do you accept?,We accept debit cards credit cards and bank transfers.
+Can I pay using PayPal?,Currently PayPal is not supported.
+How do I request a refund?,Contact customer support with your order details.
+How long does a refund take?,Refunds usually take 5 to 7 business days.
+How do I cancel my order?,Go to My Orders and click Cancel Order.
+Can I track my order?,Yes tracking information is available in your account.
+Where is my order?,Check the tracking page inside your account.
+Do you offer free shipping?,Shipping depends on your location and promotions.
+How can I change my address?,Update your shipping address from Profile Settings.
+What is Artificial Intelligence?,Artificial Intelligence enables computers to perform tasks requiring human intelligence.
+What is Machine Learning?,Machine Learning is a branch of AI where systems learn from data.
+What is NLP?,Natural Language Processing allows computers to understand human language.
+What is Computer Vision?,Computer Vision enables computers to analyze images and videos.
+What programming languages do you support?,We mainly support Python Java C++ and JavaScript.
+Which database do you use?,Our applications commonly use PostgreSQL and MySQL.
+Which framework is used?,This chatbot is built using Flask.
+What is Flask?,Flask is a lightweight Python web framework.
+What is Python?,Python is a popular programming language for AI and web development.
+What is TF-IDF?,TF-IDF measures the importance of words in text documents.
+What is cosine similarity?,Cosine similarity measures similarity between two vectors.
+What is NLTK?,NLTK is a Natural Language Toolkit for Python.
+What is Scikit Learn?,Scikit Learn is a Python machine learning library.
+Can I contribute?,Yes contributions are always welcome.
+Do you have documentation?,Yes documentation is available in the project README.
+Where is your GitHub?,Please visit the GitHub repository provided with this project.
+Is this project open source?,Yes this project can be shared as an educational project.
+What features does this chatbot have?,The chatbot supports NLP FAQ matching confidence score and chat history.
+Can I ask any question?,You can ask questions related to the FAQ dataset.
+What if you don't know the answer?,I will politely inform you that I couldn't find a matching answer.
+How accurate are your answers?,Accuracy depends on the similarity between your question and the FAQ dataset.
+Can I clear the chat?,Yes click the trash icon to clear chat history.
+Does the chatbot save chats?,Yes chat history is stored locally in your browser.
+Can I download the chat?,This feature can be added in future versions.
+Can I use this on mobile?,Yes the interface is fully responsive.
+Can I use dark mode?,Yes the chatbot already uses a dark themed interface.
+What browser works best?,Google Chrome Microsoft Edge and Firefox work well.
+How do I refresh the chatbot?,Simply reload the webpage.
+Can I report bugs?,Yes please contact the developer.
+Who is the developer?,This chatbot was developed by Zara Khan.
+Which internship is this project for?,This project was developed for the CodeAlpha Artificial Intelligence Internship.
+What technologies are used?,Python Flask HTML CSS JavaScript NLTK and Scikit Learn.
+What algorithm is used?,TF-IDF Vectorization with Cosine Similarity.
+Can I use this for learning?,Yes it is designed as an educational project.
+Is this chatbot AI?,Yes it uses Natural Language Processing techniques.
+What is an FAQ chatbot?,An FAQ chatbot answers frequently asked questions automatically.
+How fast is the chatbot?,Responses are generated within a few milliseconds.
+Does it require internet?,No once everything is installed it works locally.
+Can I deploy this online?,Yes using platforms like Render Railway or PythonAnywhere.
+Is Flask free?,Yes Flask is open source.
+Can I customize the chatbot?,Yes you can modify the FAQ dataset and interface.
+Can I add more FAQs?,Absolutely simply add more rows to faq.csv.
+Can I improve accuracy?,Yes by increasing the FAQ dataset and preprocessing.
+Can I use another language?,Yes with additional preprocessing.
+Can I use OpenAI?,Yes GPT APIs can be integrated.
+Can I use Gemini?,Yes Google's Gemini API can be integrated.
+Can I use HuggingFace?,Yes HuggingFace models can also be integrated.
+Can this answer voice questions?,Voice support can be added.
+Can I upload files?,This version does not support file uploads.
+Does this support images?,Not currently.
+Can I search documents?,That feature can be added with RAG.
+What is RAG?,Retrieval Augmented Generation combines retrieval with language models.
+Can I deploy on GitHub?,GitHub hosts the code but not Flask apps directly.
+Can I deploy on Render?,Yes Render supports Flask deployment.
+Can I deploy on Railway?,Yes Railway is another good option.
+Can I deploy on PythonAnywhere?,Yes it is beginner friendly.
+Is this secure?,Basic security is implemented but production apps require more.
+Can I use HTTPS?,Yes when deployed online.
+Can I improve the UI?,Yes HTML CSS and JavaScript can be customized.
+Can I add speech?,Yes Speech Recognition APIs can be integrated.
+Can I add text to speech?,Yes browser speech synthesis can be added.

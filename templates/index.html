@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI FAQ Chatbot</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="background"></div>
+
+<div class="chat-container">
+
+    <div class="chat-header">
+
+        <div class="stats">
+            
+            <div class="card">
+                
+                <h3 id="questionCount">0</h3>
+                
+                <p>Questions</p>
+            
+            </div>
+
+    <div class="card">
+
+        <h3 id="confidenceAvg">100%</h3>
+
+        <p>Confidence</p>
+
+    </div>
+
+</div>
+
+        <div class="header-left">
+
+            <div class="bot-icon">
+                <i class="fas fa-robot"></i>
+            </div>
+
+            <div>
+
+                <h2>AI FAQ Chatbot</h2>
+
+                <p>
+                    <span class="online-dot"></span>
+                    AI Assistant Online
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="header-right">
+
+            <button id="clearChat">
+
+                <i class="fas fa-trash"></i>
+
+            </button>
+
+        </div>
+
+    </div>
+
+    <div id="chat-box">
+
+        <div class="bot-message">
+
+            <div class="avatar">
+
+                🤖
+
+            </div>
+
+            <div class="message">
+
+                <div class="text">
+
+                    Hello <b>👋</b><br><br>
+
+                    I'm your AI FAQ Chatbot.
+
+                    Ask me anything related to:
+
+                    <ul>
+
+                        <li>Account</li>
+
+                        <li>Password</li>
+
+                        <li>Support</li>
+
+                        <li>Internship</li>
+
+                        <li>Office Hours</li>
+
+                    </ul>
+
+                </div>
+
+                <span class="time">Now</span>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="suggestions">
+
+        <button class="suggestion">Office Hours</button>
+
+        <button class="suggestion">Reset Password</button>
+
+        <button class="suggestion">Support</button>
+
+        <button class="suggestion">Internship</button>
+
+    </div>
+
+    <div class="input-area">
+
+    <button id="voiceBtn" title="Voice Input">
+        <i class="fas fa-microphone"></i>
+    </button>
+
+    <input
+        type="text"
+        id="message"
+        placeholder="Ask me anything..."
+        autocomplete="off">
+
+    <button id="sendBtn">
+        <i class="fas fa-paper-plane"></i>
+    </button>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
