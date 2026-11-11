@@ -57,7 +57,7 @@ The chatbot is designed to answer frequently asked questions using Natural Langu
 # 📂 Project Structure
 
 ```
-CodeAlpha_FAQ_Chatbot/
+FAQ_Chatbot/
 │
 ├── app.py
 ├── chatbot.py
@@ -80,7 +80,7 @@ CodeAlpha_FAQ_Chatbot/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/zara71828-sudo/CodeAlpha_FAQ_Chatbot.git
+git clone https://github.com/zara71828-sudo/FAQ_Chatbot.git
 ```
 
 ---
@@ -88,7 +88,7 @@ git clone https://github.com/zara71828-sudo/CodeAlpha_FAQ_Chatbot.git
 ## 2. Navigate into the Project
 
 ```bash
-cd CodeAlpha_FAQ_Chatbot
+cd FAQ_Chatbot
 ```
 
 ---
@@ -256,7 +256,7 @@ pip install -r requirements.txt
 
 Computer Science Student | AI & Machine Learning Enthusiast
 
-**GitHub:** https://github.com/zara71828-sudo/CodeAlpha_FAQ_Chatbot
+**GitHub:** https://github.com/zara71828-sudo/FAQ_Chatbot
 
 **LinkedIn:** www.linkedin.com/in/zara-khan-393848399
 
@@ -264,9 +264,7 @@ Computer Science Student | AI & Machine Learning Enthusiast
 
 # 📄 License
 
-This project was developed for educational purposes as part of the **CodeAlpha Artificial Intelligence Internship**.
-
-You are welcome to fork, modify, and improve this project for learning and personal use.
+This project was developed for educational purposes and you are welcome to fork, modify, and improve this project for learning and personal use.
 
 ---
 
